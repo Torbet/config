@@ -1,0 +1,11 @@
+syntax on
+set shiftwidth=2
+set tabstop=2
+set number
+set noswapfile
+set wildmenu
+set autoindent
+set expandtab
+set hlsearch
+set mouse=a
+set clipboard=unnamed
